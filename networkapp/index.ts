@@ -29,7 +29,6 @@ const showTodo = (id: number, title: string, completed: boolean) =>{
   Its title is: ${title}
   Is is completed? ${completed}
 `
-);
-
+  );
 };
 
