@@ -1,0 +1,46 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\..\\Taskia"
+		},
+		{
+			"path": "..\\..\\..\\web-server"
+		},
+		{
+			"path": "..\\..\\..\\Ojuojo"
+		},
+		{
+			"path": "..\\..\\..\\FriendZone"
+		},
+		{
+			"path": "..\\..\\..\\nodels"
+		},
+		{
+			"path": "..\\..\\..\\LoanAdvisor"
+		},
+		{
+			"path": "..\\..\\..\\AlgoCasts"
+		},
+		{
+			"path": "..\\..\\..\\studentviz"
+		},
+		{
+			"path": "..\\..\\..\\AlgoQuestions"
+		},
+		{
+			"path": "..\\..\\HomePage"
+		},
+		{
+			"path": "..\\..\\..\\microservice-ecommerce"
+		},
+		{
+			"path": "..\\..\\..\\JSUnitTest"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"git.ignoreLimitWarning": true
+	}
+}
